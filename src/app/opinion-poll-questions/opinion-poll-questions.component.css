@@ -1,8 +1,25 @@
 h2 {
   text-align: center;
+  color:midnightblue;
+
+}
+h3{
+  color:midnightblue;
+  font-size: 18px;
+  font-weight: bold;
+  padding-left:10px;
+}
+div{
+  color:midnightblue;
+  font-weight: bold;
+  padding-left:10px;
 }
 #button {
   color: midnightblue;
+  font-size: 20px;
+  font-weight: bold;
   padding: 20px;
   cursor: pointer;
+  border-bottom: midnightblue;
+  border-collapse: collapse;
 }
